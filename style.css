@@ -1,0 +1,154 @@
+.menu{
+	color: white;
+	background-color:#4B0082; 
+	width: 150px;
+	height: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+
+}
+.menu a{
+	color:  white;
+	text-decoration: none;
+	display: block;
+	padding: 10px;
+	font-weight: bold;
+}
+.menu a:hover{
+	background-color: white;
+	color:black ;
+}
+hr{
+	border: 5px solid #4B0082;
+	border-radius: 5px;
+	margin: 15px 0;
+	width: 100%;
+}
+.mane{
+	padding-right: 20px;
+	padding-left:300px;  
+}
+.image img{
+	width:45% ;
+	margin: 8px;
+	border-radius: 10px;
+	opacity: 0.7;
+
+}
+.image img:hover{
+	opacity: 1;
+}
+body{
+	font-size: 16px;
+	font-family: "Poppins", sans-serif;
+	line-height: 1.5;
+}
+.team{
+	display: inline-block;
+	width: 30%;
+	margin: 8px;
+}
+.team img{
+	width: 100%;
+	border-radius: 10px;
+}
+.description{
+	background-color: #E8E8E8	;
+	padding: 10px;
+	border-radius: 10px;
+}
+.place{
+	color: #B8B8B8;
+}
+.spisok{
+	display: inline-block;
+	width: 30%;
+	text-align: center;
+	margin: 0 30px ;
+}
+.head{
+	color: white;
+	padding: 10px 0;
+	font-size: 25px;
+	font-weight: bold;
+	border-radius: 10px;
+
+}
+.Basic{
+	background-color: #4B0082;
+
+}
+.Pro{
+	background-color: #f44336;
+
+}
+.spisok ul{
+	list-style-type: none;
+	background-color:#E8E8E8; 
+	padding: 0;
+	margin: 0;
+}
+.spisok li{
+	border-bottom:1px #B8B8B8 solid ; 
+	border-radius: 10px;
+	padding: 10px 20px;
+
+}
+.Packages{
+	text-align: center;
+}
+.price{
+	font-size:25px; 
+	font-weight: bold;
+	text-align: center;
+}
+.day{
+	opacity: 0.8;
+	text-align: center;
+}
+.Packages h2{
+text-align: left;
+}
+.tetx{
+	text-align: center;
+}
+.button{
+	background-color:#4B0082;
+	color: white;	
+	border-radius: 20px;
+	width: 100%;
+	padding: 12px 24px;
+	border: none;
+}
+input{
+	width: 100%;
+	padding: 10px;
+	box-sizing: border-box;
+}
+.footer{
+	text-align: right;
+	background-color: #DCDCDC ;
+	padding: 40px 0;
+
+}
+.bbutton{
+	padding:  5px 13px;
+	border-radius: 7px;
+	background-color:#4B0082;
+	color: white;
+	border: none;
+
+}
+.pbutton{
+	padding:  5px 13px;
+	border-radius: 7px;
+	background-color:#f44336;
+	color: white;
+	border: none;
+}
+ button:hover{
+	color: black;
+	background-color: white;
+
+}
